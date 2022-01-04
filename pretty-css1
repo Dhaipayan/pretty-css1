@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>explor css today
+    </title>
+    <style>
+     p{
+         color:red;
+         background-color: burlywood;
+         height: 50%;
+         width: 500px;
+         font-size: 20px;
+     }
+     h1{
+         color:blueviolet;
+     }
+     h3{
+         color: darkgreen;
+     }
+     #politics{
+         color: darkorange;
+     }
+    </style>
+</head>
+<body><h1>i am exploring css</h1>
+    <h3 id="politics">bangladesh politics is not anly bad but also worse</h3>
+    <h3>most people of bangladesh are dishonest</h3>
+    <h3>politics is denger for adolesence</h3>
+<p>futire hobby tume koi!!</p>
+<p>jata jata potha</p>
+<p>makup lagba</p>   
+<p>gurta jabo</p>
+<p>i got a new one</p>
+<p>rodur roy is a pagol</p>
+<p>jshgdfsdk,jb  vhssdff   jhugsgdf  gasfghuddhff  hgiusddf   iugsigvvshivu  iuushgivhvhhv  iv ghghhgskcyud gcvzkzudgckyhsc hgiusdh izkjggffud gzkjdg </p>
+<h1>tik tok is bad for younger genaration</h1>
+</body>
+</html>
